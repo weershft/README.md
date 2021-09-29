@@ -14,13 +14,13 @@ Pense o seguinte : O mercado é igual uma corrida. ONDE :
 Sua empresa tem que reagir, achando sempre novos espaços no mercado, buscando sempre ser referencia, e um lugar melhor para que perceiros de trabalho se sintam bem, trabalhando e fazendo o melhor.
 
 Experiencia e Cursos:<br>
-&nbsp         -> Administração Financeira.
-&nbsp         -> PHP 8.0 ( Basico ao Avançado ).
-&nbsp         -> HTML, CSS E Java Script ( Basico ao Avançado ).
-&nbsp         -> Java Script/JQuery.
-&nbsp         -> BootsTrap ( Css , JS )
-&nbsp         -> Python ( Basico ao Intermediario ).
-&nbsp         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.
+&nbsp;         -> Administração Financeira.
+&nbsp;         -> PHP 8.0 ( Basico ao Avançado ).
+&nbsp;         -> HTML, CSS E Java Script ( Basico ao Avançado ).
+&nbsp;         -> Java Script/JQuery.
+&nbsp;         -> BootsTrap ( Css , JS )
+&nbsp;         -> Python ( Basico ao Intermediario ).
+&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.
         
 Estudo aprofundado -> Programação Neuro Linguistica.
                    -> Comportamento do Consumidor.

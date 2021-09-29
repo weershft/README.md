@@ -23,7 +23,7 @@ Experiencia e Cursos:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.<br>
         
 Estudo aprofundado -> Programação Neuro Linguistica.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-> Comportamento do Consumidor.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> Comportamento do Consumidor.<br>
                   
                   
 Um pouco do sobre -><br>

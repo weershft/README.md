@@ -2,33 +2,33 @@
   
   <h1>Ola, Sou o Pedro Teixeira!</h1>
 
-Atualmente estudo a parte de inovações na parte empresarial, e busco atrave de tecnologia trazer uma melhor experiencia de trabalho para os colaboradores e uma melhora gritante para os clientes.
-Acredito que a parte de inovação é algo que muda tudo para melhor em uma empresa, independente do nicho e foco da empresa em sí.
+Atualmente estudo a parte de inovações na parte empresarial, e busco atrave de tecnologia trazer uma melhor experiencia de trabalho para os colaboradores e uma melhora gritante para os clientes.<br>
+Acredito que a parte de inovação é algo que muda tudo para melhor em uma empresa, independente do nicho e foco da empresa em sí.<br>
 
-Pense o seguinte : O mercado é igual uma corrida. ONDE :
+Pense o seguinte : O mercado é igual uma corrida. ONDE :<br>
 
--> Quem "corre" mais de vagar, é ultrapassado por quem esta "correndo" mais rapido.
--> Quem para de "correr", é ultrapassado e fica para traz, cada vez ficando mais complexo alcançar um bom posicionamento.
--> Quem "corre" CONSTANTEMENTE, com frequencia e eficacia, busca e continua em primeiro, conquistando espaço e liderando.
+-> Quem "corre" mais de vagar, é ultrapassado por quem esta "correndo" mais rapido.<br>
+-> Quem para de "correr", é ultrapassado e fica para traz, cada vez ficando mais complexo alcançar um bom posicionamento.<br>
+-> Quem "corre" CONSTANTEMENTE, com frequencia e eficacia, busca e continua em primeiro, conquistando espaço e liderando.<br>
 
-Sua empresa tem que reagir, achando sempre novos espaços no mercado, buscando sempre ser referencia, e um lugar melhor para que perceiros de trabalho se sintam bem, trabalhando e fazendo o melhor.
+Sua empresa tem que reagir, achando sempre novos espaços no mercado, buscando sempre ser referencia, e um lugar melhor para que perceiros de trabalho se sintam bem, trabalhando e fazendo o melhor.<br>
 
 Experiencia e Cursos:<br>
-&nbsp;         -> Administração Financeira.
-&nbsp;         -> PHP 8.0 ( Basico ao Avançado ).
-&nbsp;         -> HTML, CSS E Java Script ( Basico ao Avançado ).
-&nbsp;         -> Java Script/JQuery.
-&nbsp;         -> BootsTrap ( Css , JS )
-&nbsp;         -> Python ( Basico ao Intermediario ).
-&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.
+&nbsp;         -> Administração Financeira.<br>
+&nbsp;         -> PHP 8.0 ( Basico ao Avançado ).<br>
+&nbsp;         -> HTML, CSS E Java Script ( Basico ao Avançado ).<br>
+&nbsp;         -> Java Script/JQuery.<br>
+&nbsp;         -> BootsTrap ( Css , JS ).<br>
+&nbsp;         -> Python ( Basico ao Intermediario ).<br>
+&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.<br>
         
-Estudo aprofundado -> Programação Neuro Linguistica.
-                   -> Comportamento do Consumidor.
+Estudo aprofundado -> Programação Neuro Linguistica.<br>
+                   -> Comportamento do Consumidor.<br>
                   
                   
-Um pouco do sobre ->
-Sempre tento aprender com tudo que passo e ja passei, dou o meu melhor e mesmo assim sei que ainda tenho muito o que aprender e evoliur.
+Um pouco do sobre -><br>
+Sempre tento aprender com tudo que passo e ja passei, dou o meu melhor e mesmo assim sei que ainda tenho muito o que aprender e evoliur.<br>
 
- "Ninguem é melhor do que ninguem, sendo assim todos nos somos capazes de crascer tanto no pessoal quanto no profissional, atravez de força de vontade, persistencia, pesamento positivo, e AÇÃO!!!!"
+ "Ninguem é melhor do que ninguem, sendo assim todos nos somos capazes de crascer tanto no pessoal quanto no profissional, atravez de força de vontade, persistencia, pesamento positivo, e AÇÃO!!!!"<br>
   
 </p></div>

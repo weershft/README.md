@@ -20,6 +20,7 @@ Experiencia e Cursos:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Java Script/JQuery.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> BootsTrap ( Css , JS ).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Python ( Basico ao Intermediario ).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;         -> React Native.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;         -> Experiencia com Hacker Etico - Projeção Pentest e Hacking.<br>
         
 Estudo aprofundado :<br> -> Programação Neuro Linguistica.<br>
